@@ -1,7 +1,7 @@
 ## Bem Vindo!
 
 <br>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="450" height="290" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" max-width="100%" height="290" />
 
 Olá, eu me chamo Gilberto Fredes e bem vindo ao meu perfil! ✨<br>
 Sou desenvolvedor de Sistemas em Java e estudante em Tecnologia em Sistemas para Internet. <br> 
@@ -25,7 +25,7 @@ Procuro me desenvolver profissional e socialmente em um ambiente focado em inova
 
 <div>
   <a href="https://github.com/Gilberto491">
-  <img align="right" height="180em" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilberto491&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="right" height="180em" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilberto491&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <h3>🦊 Redes Sociais</h3>
