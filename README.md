@@ -1,7 +1,7 @@
 ## Bem Vindo!
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" min-width="95" max-width="100%" height="290" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" min-width="95" max-width="95%" height="290" />
 <br>
 Olá, eu me chamo Gilberto Fredes e bem vindo ao meu perfil! ✨<br>
 Sou desenvolvedor de Sistemas em Java e estudante em Tecnologia em Sistemas para Internet. <br> 
