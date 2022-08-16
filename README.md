@@ -1,14 +1,14 @@
 ## Bem Vindo!
 
-<h5>☕ Desenvolvedor de Sistemas</h5>
-<h5>🏫 Estudante de Sistemas para Internet</h5>
+<br>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" height="325" />
 
-<div>
-  <a href="https://github.com/Gilberto491">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilberto491&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+Olá, eu me chamo Gilberto Fredes e bem vindo ao meu perfil! ✨<br>
+Sou desenvolvedor de Sistemas em Java e estudante em Tecnologia em Sistemas para Internet. <br> 
+Procuro me desenvolver profissional e socialmente em um ambiente focado em inovação e melhores práticas no desenvolvimento de sistemas 💝
+<br>
 
-<h5>🛠️ Linguagens e Ferramentas</h5>
+<h3>🛠️ Linguagens e Ferramentas</h3>
 
 <div style="display: inline_block"> <br>
   <img align="center" alt="Gilberto-bitbucket" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" />
@@ -21,4 +21,23 @@
    <img align="center" alt="Gilberto-mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
    <img align="center" alt="Gilberto-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
    <img align="center" alt="Gilberto-oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+</div> <br>
+
+<div>
+  <a href="https://github.com/Gilberto491">
+  <img align="right" height="180em" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilberto491&layout=compact&langs_count=16&theme=dracula"/>
 </div>
+
+<h3>🦊 Redes Sociais</h3>
+
+<a target="_blank" href="https://www.instagram.com/junior_fredes/">
+  <img src="https://media.giphy.com/media/CbIM7u9TxvSs1KXwfD/giphy.gif" width="47"/>
+</a>
+
+<a target="_blank" href="https://www.linkedin.com/in/gilbertofredes/">
+  <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="60"/>
+</a>
+
+<a target="_blank" href="https://github.com/Gilberto491/">
+  <img src="https://media4.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=790b761141627cef545ec3ddd7f73a1cdd8d568f4497d1cb&rid=giphy.gif&ct=s" width="50"/>
+</a>
