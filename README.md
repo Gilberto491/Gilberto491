@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="260" />
 <br>
 Olá, eu me chamo Gilberto Fredes e bem vindo ao meu perfil! ✨<br>
-Sou desenvolvedor de Sistemas em Java e estudante em Tecnologia em Sistemas para Internet no IFRS. <br> 
+Sou desenvolvedor de Sistemas em Java formado em Tecnologia em Sistemas para Internet no IFRS. <br> 
 Procuro me desenvolver profissional e socialmente em um ambiente focado em inovação e melhores práticas no desenvolvimento de sistemas 💝
 <br>
 
