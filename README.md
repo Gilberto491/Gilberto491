@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="260" />
 <br>
 Olá, eu me chamo Gilberto Fredes e bem vindo ao meu perfil! ✨<br>
-Desenvolvedor Java Backend, cursando Sistemas para Internet no Instituto Federal (IFRS). Tenho experiência no desenvolvimento de sistemas e manutenção de legados, com foco em soluções robustas e de alta qualidade.
+Desenvolvedor Java Backend, formado em Sistemas para Internet no Instituto Federal (IFRS). Tenho experiência no desenvolvimento de sistemas e manutenção de legados, com foco em soluções robustas e de alta qualidade.
 
 Busco sempre aprimorar minhas práticas de desenvolvimento e acompanhar inovações tecnológicas para entregar código eficiente e escalável. Sou comprometido, analítico e orientado à resolução de problemas, com facilidade para me adaptar a mudanças e superar desafios.
 <br>
