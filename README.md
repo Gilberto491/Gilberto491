@@ -48,4 +48,7 @@ Procuro me desenvolver profissional e socialmente em um ambiente focado em inova
   <img src="https://media4.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=790b761141627cef545ec3ddd7f73a1cdd8d568f4497d1cb&rid=giphy.gif&ct=s" width="50"/>
 </a> 
 
-![snake gif](https://github.com/Gilberto491/Gilberto491/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gilberto491/Gilberto491/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Gilberto491/Gilberto491/output/github-contribution-grid-snake.svg" />
+</picture>
