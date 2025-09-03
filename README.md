@@ -4,36 +4,48 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="260" />
 <br>
 Olá, eu me chamo Gilberto Fredes e bem vindo ao meu perfil! ✨<br>
-Sou desenvolvedor de Sistemas em Java formado em Tecnologia em Sistemas para Internet no IFRS. <br> 
-Procuro me desenvolver profissional e socialmente em um ambiente focado em inovação e melhores práticas no desenvolvimento de sistemas 💝
+Desenvolvedor Java Backend, cursando Sistemas para Internet no Instituto Federal (IFRS). Tenho experiência no desenvolvimento de sistemas e manutenção de legados, com foco em soluções robustas e de alta qualidade.
+
+Busco sempre aprimorar minhas práticas de desenvolvimento e acompanhar inovações tecnológicas para entregar código eficiente e escalável. Sou comprometido, analítico e orientado à resolução de problemas, com facilidade para me adaptar a mudanças e superar desafios.
 <br>
 
-<h3>🛠️ Linguagens e Ferramentas</h3>
-
-<div style="display: inline_block"> <br>
-  <img align="center" alt="Gilberto-bitbucket" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" />
-  <img align="center" alt="Gilberto-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Gilberto-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="Gilberto-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />  
-  <img align="center" alt="Gilberto-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />  
-  <img align="center" alt="Gilberto-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Gilberto-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></br></br>
-  <img align="center" alt="Gilberto-intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-  <img align="center" alt="Gilberto-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Gilberto-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Gilberto-mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img align="center" alt="Gilberto-oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-  <img align="center" alt="Gilberto-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" alt="Gilberto-selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
-          
+<div align="center"> <br>
+  <table>
+    <tr>
+      <td>
+        <img align="center" alt="Gilberto-Bitbucket" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" />
+        <img align="center" alt="Gilberto-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+        <img align="center" alt="Gilberto-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+        <img align="center" alt="Gilberto-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+        <img align="center" alt="Gilberto-GCP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
+        <img align="center" alt="Gilberto-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />  
+        <img align="center" alt="Gilberto-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />  
+        <img align="center" alt="Gilberto-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></br></br>
+        <img align="center" alt="Gilberto-Intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+        <img align="center" alt="Gilberto-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+        <img align="center" alt="Gilberto-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+        <img align="center" alt="Gilberto-Angular" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+        <img align="center" alt="Gilberto-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+        <img align="center" alt="Gilberto-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+        <img align="center" alt="Gilberto-Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/>
+        <img align="center" alt="Gilberto-Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" /> </br></br>
+        <img align="center" alt="Gilberto-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+        <img align="center" alt="Gilberto-Mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+        <img align="center" alt="Gilberto-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+        <img align="center" alt="Gilberto-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+        <img align="center" alt="Gilberto-Prometheus" height="30" width="40" src="https://raw.githubusercontent.com/cncf/artwork/master/projects/prometheus/icon/color/prometheus-icon-color.svg" />
+        <img align="center" alt="Gilberto-Grafana" height="30" width="40" src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg" />
+        <img align="center" alt="Gilberto-Eclipse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg"/>
+        <img align="center" alt="Gilberto-Redis" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" /> </br></br>
+      <td>
+      <!-- Card de linguagens -->
+      <a href="https://github.com/Gilberto491">
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilberto491&layout=compact&langs_count=16&theme=dracula"/>
+      </a>
+    </td>
+  </tr>
+</table>
   
-</div> 
-
-<div>
-  <a href="https://github.com/Gilberto491">
-  <img align="right" height="180em" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilberto491&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-<br>
 <h3>🦊 Redes Sociais</h3>
 
 <a target="_blank" href="https://www.instagram.com/junior_fredes/">
